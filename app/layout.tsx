@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "The Mailbox Journal - Your AI Agent for Benefits Education",
-  description: "Meet your personal AI benefits advisor. Get instant, unbiased answers to all your benefits questions — coverage, costs, enrollment, and more. No salespeople. No pressure.",
+  title: "The Mailbox Journal - Your AI Agent for Giveaways & Sweepstakes",
+  description: "Meet your personal AI giveaway advisor. Find legitimate sweepstakes, contests, and free samples. No spam. No scams. Just honest guidance to help you discover and win more.",
 };
 
 export default function RootLayout({
